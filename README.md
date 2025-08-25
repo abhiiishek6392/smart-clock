@@ -21,3 +21,21 @@ git clone https://github.com/abhiiishek6392/smart-clock.git
 cd smart-clock
 pip install -r requirements.txt
 python smart_clock.py
+```
+## 📸 Preview
+![App Screenshot](screenshot.png)
+
+## 💡 Why This Project Stands Out
+- Combines multiple time utilities in one app (clock, alarm, stopwatch, countdown, world clock).
+- Demonstrates **GUI development**, **threading**, and **time zone handling** in Python.
+- Shows ability to build **practical, user-friendly desktop software**.
+
+## 🌱 Future Improvements
+- Dark mode UI
+- Multiple alarms
+- Custom alarm sounds
+- Export stopwatch & timer logs
+
+## 👤 Author
+Developed by **Abhishek Singh**
+
